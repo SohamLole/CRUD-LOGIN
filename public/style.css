@@ -1,0 +1,33 @@
+div {
+ align-self: center;
+  background-color: rgba(86, 149, 243, 0.648);  
+  width: 300px;
+  border: 15px solid green;
+  padding: 50px;
+  margin: auto;
+}
+
+h2{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#s_email, #l_email, #s_password, #l_password {
+    margin: auto;
+    align-self: center;
+}
+
+h1{
+    color: rgb(180, 35, 35);
+    text-align: center;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+body{
+    background-color: rgb(15, 58, 75);
+}
+
+
+#tenantPersonal{
+    background-color: rgba(127, 255, 212, 0.469);
+}
